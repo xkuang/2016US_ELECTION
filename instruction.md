@@ -14,13 +14,7 @@ creating a single folder
 
 apply exploratory data analysis techniques to explore relationships in one variable to multiple variables and to explore a selected data set for distributions, outliers, and anomalies.
 
-    
-
-    
-
-    Final Plots are not polished and are missing titles or units.
-
-    Inappropriate plots are chosen for data in the Final Plots section.
+    avoid: Inappropriate plots are chosen for data in the Final Plots section.
 
 #Step Four - Document your Analysis formatted in markdown:
 
@@ -38,10 +32,12 @@ apply exploratory data analysis techniques to explore relationships in one varia
     select three plots from analysis to polish and share, showing different 
     trends and should be polished with appropriate labels, units, and titles, 
     giving insight into the data set that you investigated.
+    three strong plots consulted with the document, Creating Effective Plots.
 
     Avoid: plots in the Final Plots section do not reveal a finding or 
-    pattern in the data set.
-    three strong plots consulted with the document, Creating Effective Plots.
+    pattern in the data set. Final Plots are not polished and are missing 
+    titles or units.
+    
 
 
     A final section called “Reflection”:
